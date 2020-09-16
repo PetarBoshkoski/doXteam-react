@@ -1,0 +1,66 @@
+{
+   "results":[
+      {
+         "gender":"male",
+         "name":{
+            "title":"Monsieur",
+            "first":"Sergio",
+            "last":"Giraud"
+         },
+         "location":{
+            "street":{
+               "number":5544,
+               "name":"Avenue Joliot Curie"
+            },
+            "city":"Brusino Arsizio",
+            "state":"Glarus",
+            "country":"Switzerland",
+            "postcode":3974,
+            "coordinates":{
+               "latitude":"-52.5426",
+               "longitude":"-138.5212"
+            },
+            "timezone":{
+               "offset":"-6:00",
+               "description":"Central Time (US & Canada), Mexico City"
+            }
+         },
+         "email":"sergio.giraud@example.com",
+         "login":{
+            "uuid":"e6381257-5d51-4cdc-87a1-349752d99365",
+            "username":"purplebutterfly301",
+            "password":"juggalo",
+            "salt":"w3vfV2Xr",
+            "md5":"bb7e080217fe648f12e2293e9dd5de53",
+            "sha1":"d18ad3de2b7a7f5f6de301375c81a14d96c6b2cf",
+            "sha256":"071e5f4d4e046f1516cfbda2d31be76fae61787570a4bb929992a1fae0181b6e"
+         },
+         "dob":{
+            "date":"1958-11-26T02:55:50.620Z",
+            "age":62
+         },
+         "registered":{
+            "date":"2012-09-19T15:34:07.914Z",
+            "age":8
+         },
+         "phone":"075 855 24 35",
+         "cell":"078 852 62 12",
+         "id":{
+            "name":"AVS",
+            "value":"756.2774.0309.42"
+         },
+         "picture":{
+            "large":"https://randomuser.me/api/portraits/men/45.jpg",
+            "medium":"https://randomuser.me/api/portraits/med/men/45.jpg",
+            "thumbnail":"https://randomuser.me/api/portraits/thumb/men/45.jpg"
+         },
+         "nat":"CH"
+      }
+   ],
+   "info":{
+      "seed":"ba47d80bd1c49249",
+      "results":1,
+      "page":1,
+      "version":"1.3"
+   }
+}
